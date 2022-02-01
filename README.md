@@ -1,4 +1,5 @@
-# Helm Charts
+# DEPRECATED
+## https://github.com/meateam/drive-project/tree/master/z-helm (new)
 
 ## Service Addition Guide
 
